@@ -8,7 +8,7 @@
 </settings>
 <grid distance="0.01" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
 <layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
 <layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
@@ -729,7 +729,7 @@ Please make sure your boards conform to these design rules.</description>
 <vertex x="0" y="0"/>
 </polygon>
 <via x="6.985" y="11.43" extent="1-16" drill="0.3937"/>
-<via x="10.16" y="14.859" extent="1-16" drill="0.3937"/>
+<via x="9.906" y="15.621" extent="1-16" drill="0.3937"/>
 </signal>
 <signal name="V_RAW">
 <contactref element="U4" pad="3"/>
